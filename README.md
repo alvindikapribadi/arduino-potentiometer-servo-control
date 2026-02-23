@@ -47,9 +47,11 @@ This beginner-friendly project demonstrates how analog input can directly contro
 
 ## ▶️ Arduino Code
 
-Upload the file:
+You can download the Arduino sketch here:
 
-`Arduino_Potentiometer_Servo.ino`
+[Download Arduino Code](Arduino_Potentiometer_Control_Servo.ino)
+
+Or open the `.ino` file directly inside this repository.
 
 Make sure you have the built-in Servo library installed.
 
@@ -58,6 +60,7 @@ Make sure you have the built-in Servo library installed.
 ## 🎥 Video Tutorial
 
 You can watch the full step-by-step tutorial on YouTube:
+
 👉 https://youtu.be/rCFAe86tTkE
 
 ---
